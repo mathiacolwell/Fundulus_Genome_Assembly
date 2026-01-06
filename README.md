@@ -3,7 +3,7 @@ This repository contains code for the assembly, annotation, and light downstream
 
 Our genome was developed to support studies using the Kings Creek Southern Haplotype *Fundulus heteroclitus* population (BioProject: PRJNA1381666; Accession no: UNDER REVIEW).
 
-This repository assumes familiarity with commandline genomics tools and access to computational resources
+This repository assumes familiarity with commandline genomics tools and access to computational resources.
 
  ## Sequencing Overview
  **Species:** _Fundulus heteroclitus_
@@ -14,16 +14,11 @@ This repository assumes familiarity with commandline genomics tools and access t
  
  **Annotation:** Liftoff based annotaiton using the MU_UCD_Fhet_4.1 genome (GCF_011125445.2: https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_011125445.2/)
  
- **Date Sequenced** September 2022
-
- 
-
+ **Date Sequenced:** September 2022
 
  | Assembly                              | Size (bp)     | Contigs | N50 (bp)   | L50 (num) | Gaps (num) | GC (%) | BUSCO Single (%) | BUSCO Duplicate (%) | BUSCO Fragment (%) | BUSCO Missing (%) |
 | ------------------------------------- | ------------- | ------- | ---------- | --------- | ---------- | ------ | ---------------- | ------------------- | ------------------ | ----------------- |
 | *Fundulus heteroclitus* (Kings Creek) | 1,067,743,975 | 2,656   | 37,363,536 | 14        | 9,103      | 40.71  | 98.02            | 0.41                | 0.53               | 1.04              |
-
- Last Updated: 12/17/25 MLC
 
 ## Key Features 
 - Long-read genome assembyl and polishing workflow
@@ -63,5 +58,7 @@ Fundulus_Genome_Assembly/
 
 ## Author
 **Mathia L. Colwell, PhD**
+
 Postdoctoral Researcher, Oregon Health and Science University
+
 Computational Genomics | Genome Assembly | Epigenomics 
